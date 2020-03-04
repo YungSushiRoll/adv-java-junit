@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="adv-java-junit" />
+        <module name="adv-java-junit-group" />
       </profile>
     </annotationProcessing>
   </component>

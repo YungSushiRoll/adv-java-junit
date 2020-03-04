@@ -10,6 +10,7 @@ public class Calculator {
 
     private String name;
     private double memory;
+    //test
 
     public void addToMemory (double ammount) {
         memory += ammount;
